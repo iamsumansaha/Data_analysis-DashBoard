@@ -30,7 +30,7 @@ Gender Analysis: Display the number of patients by gender.
 Department Referrals: Check which departments patients are referred to the most.
 
 ## Final Dashboard
--<a herf="https://github.com/iamsumansaha/Data_analysis-DashBoard/blob/main/Final%20Dashboard.png">Final Dashboard<a/>
+-<a herf="https://github.com/iamsumansaha/Data_analysis-DashBoard/blob/main/Final%20Dashboard.png">Final Dashboard</a>
 
 
 
