@@ -30,6 +30,8 @@ Use an area sparkline to show trends, spot drops in satisfaction, and link them 
 - Department Referrals: Check which departments patients are referred to the most.
 
 ## Final Dashboard
+![Final Dashboard](https://github.com/user-attachments/assets/5522bfdc-cbf3-4587-8daa-9f81a7d0a9f4)
+
 - <a href="https://github.com/iamsumansaha/Data_analysis-DashBoard/blob/main/Final%20Dashboard.png">Dashboard</a>
 
 
