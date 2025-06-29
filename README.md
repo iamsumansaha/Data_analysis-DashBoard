@@ -1,2 +1,2 @@
-# Data_analysis-DashBoard
-I developed a project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, Including data preprocessing, data cleaning and data visualization.
+# HOSPITAL EMERGENCY ROOM DATA ANALYST
+# Hospital wants to create Hospital Emergency Room Analysis Dashboard in Power BI to improve efficiency and provide useful insights. This dashboard will help stakeholders monitor, analyze, and make better decisions for managing patients and improving services
