@@ -18,4 +18,20 @@ Patient Satisfaction Score:
 Check the average daily satisfaction score of patients to assess service quality.
 Use an area sparkline to show trends, spot drops in satisfaction, and link them to busy times or challenges.
 
+## Charts
+Patient Admission Status: Show how many patients were admitted vs. not admitted.
+
+Patient Age Distribution: Group patients by age.
+
+Timeliness: Measure the percentage of patients seen within 30 minutes.
+
+Gender Analysis: Display the number of patients by gender. 
+
+Department Referrals: Check which departments patients are referred to the most.
+
+## Final Dashboard
+-<a herf="https://github.com/iamsumansaha/Data_analysis-DashBoard/blob/main/Final%20Dashboard.png">Final Dashboard<a/>
+
+
+
 
